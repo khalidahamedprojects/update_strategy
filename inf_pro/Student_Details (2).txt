@@ -1,0 +1,9 @@
+Student_ID	Student_Name	DEPT_ID
+1	Arjun	D1
+2	Banu	D5	
+3	Chris	D7
+4	Albert	D3
+5	Swetha	D6
+6	Thanu	D10
+7	Venu	D15
+8	Mano	D22
